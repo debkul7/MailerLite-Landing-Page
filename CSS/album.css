@@ -1,0 +1,159 @@
+.body {
+  font-family: proxima-nova, sans-serif;
+}
+
+.navbar img {
+  margin: 5px 60px 5px 32px;
+}
+
+.navbar a {
+  color: grey;
+}
+ 
+.navbar {
+  font-family: proxima-nova, sans-serif;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item.active .nav-link {
+  color: #21c16c;
+}
+
+#Signup:hover {
+  border-color: #2d8cff;
+  color: white;
+
+}
+
+#Signup {
+  border-color: grey;
+  color: grey;
+  border-radius: 2px;
+  width: 115px;
+  font-family: proxima-nova, sans-serif;
+}
+
+.jumbotron {
+  background-image: linear-gradient(#14a760, #21c16c, #14a760);
+  border-radius: 0px;
+  margin-bottom: 0rem;
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+  }
+}
+.jumbotron h1 {
+  font-size: 55px;
+  font-family: proxima-nova, sans-serif;
+  font-weight: bold;
+  color: white;
+  padding-bottom: 0.5rem;
+}
+
+
+.jumbotron .container {
+  max-width: 40rem;
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+}
+
+
+#containertext1 {
+  font-family: proxima-nova, sans-serif;
+  font-size: 16px;
+  color: white;
+  padding-bottom: 1rem;
+}
+
+#containertext2 {
+  font-family: proxima-nova, sans-serif;
+  font-size: 12px;
+  color: white;
+  padding-top: 0rem;
+  
+}
+
+#button-addon2 {
+  font-weight: bold;
+  font-family: proxima-nova, sans-serif;
+}
+
+
+.marketing .col-lg-4 {
+  padding-bottom: 1rem;
+  padding-top: 3rem;
+  text-align: center;
+  font-family: proxima-nova, sans-serif;
+}
+.marketing h2 {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: proxima-nova, sans-serif;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+
+.card-header {
+  padding-left: .5rem;
+  padding-bottom: 0rem;
+}
+
+
+.album p {
+  padding-bottom: .30rem;
+  font-family: proxima-nova, sans-serif;
+}
+
+.album img {
+  padding-bottom: .75rem;
+}
+
+.album h1 {
+  font-weight: bold;
+  padding-top: 1rem;
+  font-family: proxima-nova, sans-serif;
+}
+
+.quotescontainer h1 {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+}
+
+.card-body p {
+  font-size: 18px;
+}
+
+.card-news {
+  border-style: none;
+  margin-bottom: 4rem;
+}
+
+.container4 {
+  background-color: white;
+}
+
+.footer {
+  background-color: #292C31;
+  line-height: 2.5;
+}
+
+.footer h7 {
+  font-weight: bold;
+  color: lightgrey;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
